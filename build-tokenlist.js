@@ -8,6 +8,8 @@
 const fs = require("fs");
 const axios = require("axios");
 
+// 测试
+
 // 1. 针对不同 EVM 链的基础配置
 //    - chainId: 唯一的网络标识
 //    - coingeckoPlatform: 在 CoinGecko 上对应的 "platform" 参数值（可在 CG 的 API docs 或 coins/list 接口中获取）
